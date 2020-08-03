@@ -9,17 +9,17 @@ Installation
 Usage
 Credits
 
-Installation
+II.Installation
 
 The USERDIRECTORY is easy to install.
 You have to run npm start and there you are! You will be taken to our app and be able to enjoy it 
 
-Usage
+III. Usage
 How to use this app? very simple. Once you launch this application, you wiil be given a table of random users, when the user loads the page, a table of employees should render. 
 As a user, you should be able to, Sort the table by at least one category and filter the users by at least one property.
 
 
-Credits
+IV. Credits
 This app was design and built by binjim2002 (Jimmy B. Kazadi)
 
 my URL: https://github.com/binjim2002/user-directory
