@@ -20,6 +20,7 @@ As a user, you should be able to, Sort the table by at least one category and fi
 
 
 IV. Credits
+
 This app was design and built by binjim2002 (Jimmy B. Kazadi)
 
 my URL: https://github.com/binjim2002/user-directory
