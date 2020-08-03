@@ -22,5 +22,6 @@ As a user, you should be able to, Sort the table by at least one category and fi
 Credits
 This app was design and built by binjim2002 (Jimmy B. Kazadi)
 
-my URL: https://jimmyz-burgerz.herokuapp.com/
-https://github.com/binjim2002/burger
+my URL: https://github.com/binjim2002/user-directory
+
+https://binjim2002.github.io/user-directory/
